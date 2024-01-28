@@ -1,0 +1,6 @@
+@ChatAPK_HostAddress = http://localhost:5285
+
+GET {{ChatAPK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
